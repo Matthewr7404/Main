@@ -1,6 +1,0 @@
-Versions = {
-  JailbreakAutoRob = "1.12.0 beta",
-  PiggyAutoFarm = "1.0.0 beta"
-}
-
-return Versions
